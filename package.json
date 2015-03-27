@@ -17,7 +17,9 @@
     "mocha": "^2.0.1",
     "nib": "^1.1.0"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "gulp dist docs examples"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/phosphorjs/phosphor.git"
